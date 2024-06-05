@@ -7,6 +7,8 @@ const Page: FC = () => {
       <div>
         <span className="text-blue-500">Hello</span>
         <span className="text-red-500">World</span>
+        <br />
+        <a href="/user/test">test</a>
       </div>
     </div>
   );
